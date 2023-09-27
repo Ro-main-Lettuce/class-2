@@ -2,7 +2,10 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * Binary search.
+ * Binary search method of finding the the most like terms
+ * Comparator used to compare the middle key to the 
+ * left/right values
+ *  @author Ro-main-Lettuce
  */
 public class BinarySearch {
 
