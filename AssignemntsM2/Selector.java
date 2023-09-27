@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
 /**
  * Defines a library of selection methods on Collections.
  *
- * @author  Rosalyn Navarrete (rdn0011@auburn.edu)
+ * @author  Ro_main_lettuce
  *
  */
 public final class Selector {
