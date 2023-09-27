@@ -2,7 +2,7 @@ import java.util.Comparator;
 
 /**
  * Autocomplete term representing a (query, weight) pair.
- * 
+ * @author Ro-main_Lettuce
  */
 public class Term implements Comparable<Term> {
    private String queryln;
