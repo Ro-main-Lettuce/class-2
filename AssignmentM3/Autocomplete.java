@@ -2,7 +2,11 @@ import java.util.Arrays;
 
 
 /**
- * Autocomplete.
+ * 
+ * Autocomplete for a search engine.
+ * An array is made of terms which is then made into another array
+ * This is then sorted into "matcha" array
+ * 
  */
 public class Autocomplete {
 
@@ -28,6 +32,7 @@ public class Autocomplete {
 	/** 
 	 * Returns all terms that start with the given prefix, in descending order of weight. 
 	 * This method throws a NullPointerException if prefix is null.
+  	 * matcha is matches
 	 */
    public Term[] allMatches(String prefix) {
       if (prefix == null) {
