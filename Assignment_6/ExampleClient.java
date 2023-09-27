@@ -14,7 +14,7 @@ import java.util.List;
  *
  *      jar xf WordLists.jar
  *
- * @author Dean Hendrix (dh@auburn.edu)
+ * @author Dean Hendrix (dh@auburn.edu) (professor)
  */
 public class ExampleClient {
 
