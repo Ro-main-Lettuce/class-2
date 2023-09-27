@@ -4,8 +4,10 @@ import java.util.Arrays;
 * Defines a library of selection methods
 * on arrays of ints.
 *
-* @author   Rosalyn Navarrete (rdn0022@auburn.edu)
-* @author   Dean Hendrix (dh@auburn.edu)
+* @author   Ro-Main_Lettuce
+* @author   Professor code template 
+* Hendrix is creator of the blank file
+* Student job was to create methods
 * @version  24/01/23
 *
 */
