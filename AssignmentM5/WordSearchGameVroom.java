@@ -14,6 +14,13 @@ import java.util.SortedSet;
 import java.util.TreeSet;
 import java.io.FileNotFoundException;
 
+/**
+ * WordSearch game uses txt files for possible words
+ * that can be found in the word search
+ * @author Hendrix (source code files, txt files)
+ * @author Ro-main-Lettuce (methods implemmented)
+ */
+
 
 
 
