@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
 
 /**
  * Defines a library of selection methods on Collections.
- *
+ * Employs Generics to explore code being generic
  * @author  Ro_main_lettuce
  *
  */
