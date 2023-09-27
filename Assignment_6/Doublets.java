@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 /**
  * Provides an implementation of the WordLadderGame interface. 
  *
- * @author Your Name (you@auburn.edu)
+ * @author Ro-main_Lettuce
  */
 public class Doublets implements WordLadderGame {
 	private Object element;
