@@ -9,8 +9,8 @@ import java.util.NoSuchElementException;
  * take a LinkedSet as a parameter, this order is used to increase
  * efficiency.
  *
- * @author Dean Hendrix (dh@auburn.edu)
- * @author YOUR NAME (you@auburn.edu)
+ * @author Dean Hendrix (Professor, provide course code minus some methods)
+ * @author Ro-main_Letuce
  *
  */
 public class LinkedSet<T extends Comparable<T>> implements Set<T> {
