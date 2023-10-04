@@ -8,7 +8,7 @@ import java.util.Arrays;
  * This is then sorted into "matcha" array
  * 
  */
-public class Autocomplete {
+public class searchFill {
 
    private Term[] terms;
 
@@ -18,7 +18,7 @@ public class Autocomplete {
 	 * Initializes a data structure from the given array of terms.
 	 * This method throws a NullPointerException if terms is null.
 	 */
-   public Autocomplete(Term[] terms) {
+   public searchFill(Term[] terms) {
       if(terms == null){
          throw new NullPointerException();}
       Term[] copy = new Term[terms.length];
